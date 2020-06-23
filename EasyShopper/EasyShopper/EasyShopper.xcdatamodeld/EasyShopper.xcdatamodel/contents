@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19D76" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ProductDB" representedClassName="ProductDB" syncable="YES" codeGenerationType="class">
+        <attribute name="productId" attributeType="String"/>
+        <attribute name="productImageUrl" optional="YES" attributeType="String"/>
+        <attribute name="productName" optional="YES" attributeType="String"/>
+        <attribute name="productPrice" optional="YES" attributeType="String"/>
+        <attribute name="productSize" attributeType="Integer 16" defaultValueString="1" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="ProductDB" positionX="-63" positionY="-18" width="128" height="118"/>
+    </elements>
+</model>
